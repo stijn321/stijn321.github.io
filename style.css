@@ -1,0 +1,51 @@
+a { text-decoration: none;
+
+}
+
+
+ul {list-style-type: none}
+
+}
+
+a:link { color: red;
+
+}
+
+a:visited { color: blue;
+
+}
+
+
+p {color: blue;
+	font-size: 30px;
+
+}
+
+#image1 {width: 240px;
+		height: 165px;
+
+}
+
+.lijst1 {color: red;
+	line-height: 30px;
+
+}
+
+.lijst1 li:hover {font-size: 20px;
+		transition: font-size 0.2s;
+
+}
+
+img {width: 200px;
+	height: auto;
+	padding: 5px 5px;
+
+}
+
+img:hover {width: 220px;
+	height: auto;
+	padding: 0px 0;
+	transition: 0.2s;
+
+
+}

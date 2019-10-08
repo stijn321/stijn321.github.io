@@ -1,0 +1,36 @@
+div {
+border-style: solid;
+border-width: 2px;
+
+}
+
+body {
+}
+
+
+
+.container {
+	padding: 0px;
+	min-width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	border-style: none;
+	justify-content: space-between;
+}
+
+.row {
+	border-style: none;
+
+}
+.start {
+	width: 20%;
+}
+
+.center {
+}
+
+.end {
+}
+
+.row {
+}
